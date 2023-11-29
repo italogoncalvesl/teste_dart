@@ -1,4 +1,4 @@
-#*Orientações*#
+#Orientações
 
 - Para testar o projeto basta acessa-lo pelo terminal;
 
